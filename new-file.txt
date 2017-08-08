@@ -1,1 +1,2 @@
 My new file in repository
+git is not so difficult
